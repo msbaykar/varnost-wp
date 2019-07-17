@@ -1,0 +1,9 @@
+<svg id="nav-back" xmlns="http://www.w3.org/2000/svg" width="1440" height="105" viewBox="0 0 1440 105">
+  <path id="Rectangle" d="M0,0H-30V30a34.041,34.041,0,0,1,7.365-19.646C-15.27,1.4,0,0,0,0Z" transform="translate(930 50)" fill="#050521"/>
+  <g id="Group_6" data-name="Group 6">
+    <path id="Rectangle-2" data-name="Rectangle" d="M0,0H360a0,0,0,0,1,0,0V0a25,25,0,0,1-25,25H25A25,25,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(540 80)" fill="#050521"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="360" height="55" transform="translate(540 25)" fill="#050521"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="1440" height="50" fill="#050521"/>
+  </g>
+  <path id="Rectangle-5" data-name="Rectangle" d="M0,0H30V30a34.041,34.041,0,0,0-7.365-19.646C15.27,1.4,0,0,0,0Z" transform="translate(510 50)" fill="#050521"/>
+</svg>
